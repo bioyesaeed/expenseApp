@@ -7,7 +7,7 @@ st.set_page_config(page_title="Expense App",
 
 # --- Title----
 
-st.subheader("Expense App")
+st.subheader("Castush Expense App")
 
 
 expenses = {
